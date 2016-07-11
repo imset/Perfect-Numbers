@@ -1,5 +1,6 @@
 # Perfect-Numbers
 A very poorly written script involving perfect numbers to help me learn more about Python.
+Ft. Completely uncommented code because I'm just terrible like that I guess. Not like anyone will read this anyways.
 
 This is a Python 3 script. There are two arguments when you use it:
 Argument 1 is either "iterate" or "check". Argument 2 is any number you'd like to check.
